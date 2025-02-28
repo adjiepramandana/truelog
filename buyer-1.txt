@@ -1,0 +1,3 @@
+api_id = 27427306
+api_hash = 12a0c2a67e79cbf8284aa5e2cbd3ad04
+engine = 1
